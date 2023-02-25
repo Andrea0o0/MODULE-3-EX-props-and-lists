@@ -18,14 +18,6 @@
     "needsMedicine": true
   },
   {
-    "_id": 3,
-    "name": "Snoopy",
-    "type": "dog",
-    "description": "This dogs has been through hell and more, he deserves a happy life",
-    "lifeExpectancy": 12,
-    "needsMedicine": true
-  },
-  {
     "_id": 4,
     "name": "Snoopy",
     "type": "dog",
@@ -33,5 +25,13 @@
     "description": "This dogs has been through hell and beyond",
     "lifeExpectancy": 14,
     "needsMedicine": false
+  },
+  {
+    "_id": 3,
+    "name": "Snoopy",
+    "type": "dog",
+    "description": "This dogs has been through hell and more, he deserves a happy life",
+    "lifeExpectancy": 12,
+    "needsMedicine": true
   }
 ]
